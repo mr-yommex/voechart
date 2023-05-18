@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoeChart", "VoeChart\VoeChart.csproj", "{8CB729C5-0F61-4312-A96F-F8E70CE378AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoeChart", "VoeChart\VoeChart.csproj", "{8CB729C5-0F61-4312-A96F-F8E70CE378AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personnel", "Personnel\Personnel.csproj", "{F20651AB-5610-416C-A755-EE8417188BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory", "Inventory\Inventory.csproj", "{20092308-BC39-49C3-A44C-3565B389FEEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{8CB729C5-0F61-4312-A96F-F8E70CE378AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CB729C5-0F61-4312-A96F-F8E70CE378AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CB729C5-0F61-4312-A96F-F8E70CE378AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20651AB-5610-416C-A755-EE8417188BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20651AB-5610-416C-A755-EE8417188BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20651AB-5610-416C-A755-EE8417188BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20651AB-5610-416C-A755-EE8417188BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20092308-BC39-49C3-A44C-3565B389FEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20092308-BC39-49C3-A44C-3565B389FEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20092308-BC39-49C3-A44C-3565B389FEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20092308-BC39-49C3-A44C-3565B389FEEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

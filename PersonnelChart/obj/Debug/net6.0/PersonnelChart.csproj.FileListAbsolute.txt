@@ -1,0 +1,9 @@
+C:\Users\OpYummy\source\repos\VoeChart\PersonnelChart\obj\Debug\net6.0\PersonnelChart.csproj.AssemblyReference.cache
+C:\Users\OpYummy\source\repos\VoeChart\PersonnelChart\obj\Debug\net6.0\PersonnelChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OpYummy\source\repos\VoeChart\PersonnelChart\obj\Debug\net6.0\PersonnelChart.AssemblyInfoInputs.cache
+C:\Users\OpYummy\source\repos\VoeChart\PersonnelChart\obj\Debug\net6.0\PersonnelChart.AssemblyInfo.cs
+C:\Users\OpYummy\source\repos\VoeChart\PersonnelChart\obj\Debug\net6.0\PersonnelChart.csproj.CoreCompileInputs.cache
+C:\Users\OpYummy\source\repos\VoeChart\PersonnelChart\obj\Debug\net6.0\PersonnelChart.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OpYummy\source\repos\VoeChart\PersonnelChart\obj\Debug\net6.0\PersonnelChart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OpYummy\source\repos\VoeChart\PersonnelChart\obj\Debug\net6.0\PersonnelChart.RazorAssemblyInfo.cache
+C:\Users\OpYummy\source\repos\VoeChart\PersonnelChart\obj\Debug\net6.0\PersonnelChart.RazorAssemblyInfo.cs
